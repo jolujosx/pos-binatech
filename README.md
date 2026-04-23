@@ -40,5 +40,5 @@
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/binatech963/binatech-pos.git
+git clone https://github.com/jolujosx/pos-binatech.git
 cd bina-pos
